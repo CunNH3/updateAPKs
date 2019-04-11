@@ -1,8 +1,0 @@
-﻿{
-  "update_url"      : "https://github.com/CunNH3/updateAPKs/raw/master/style.apk",
-  "update_content"  : "修复相机bug，增加自动更新功能",
-  "update_ver_code" : 2,
-  "update_ver_name" : "2.0",
-  "ignore_able"     : true,
-  "md5"             : "211117732C307BEA1188965E6CA41443"
-}
